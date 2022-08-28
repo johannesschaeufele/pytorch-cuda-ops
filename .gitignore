@@ -1,0 +1,5 @@
+# Compilation results
+*.py[cod]
+
+# IDEs
+.idea/

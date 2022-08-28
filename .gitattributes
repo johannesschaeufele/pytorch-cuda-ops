@@ -1,0 +1,14 @@
+*.gitattributes text eol=lf
+*.gitignore text eol=lf
+
+*.txt text eol=lf
+*.md text eol=lf diff=markdown
+*.sh text eol=lf diff=bash
+*.yapf text eol=lf
+*.clang-format text eol=lf
+*LICENSE text eol=lf
+*.py text eol=lf diff=python
+*.h text eol=lf diff=cpp linguist-language=C++
+*.cpp text eol=lf diff=cpp
+*.cuh text eol=lf diff=cpp
+*.cu text eol=lf diff=cpp
